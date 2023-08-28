@@ -1,6 +1,6 @@
-# HistóriaQuiz
+# CharacterQuiz
 
-Este é o projeto HistóriaQuiz, um site de quiz dedicado a testar seus conhecimentos sobre fatos históricos importantes. O site apresentará uma série de perguntas relacionadas a eventos históricos, personalidades e datas significativas.
+Este é o projeto CharacterQuiz, um site de quiz dedicado a testar seus conhecimentos sobre personagens. O site apresentará uma série de perguntas relacionadas a personagens váriados.
 
 ## Integrantes do Grupo
 
@@ -11,7 +11,7 @@ Este é o projeto HistóriaQuiz, um site de quiz dedicado a testar seus conhecim
 
 ## Funcionalidades
 
-- Quiz com perguntas de múltipla escolha sobre fatos históricos.
+- Quiz com perguntas de múltipla escolha sobre personagens váriados.
 - Pontuação para cada pergunta respondida corretamente.
 - Página de resultados para exibir a pontuação final.
 - Navegação intuitiva entre as perguntas.
