@@ -4,10 +4,9 @@ Este é o projeto CharacterQuiz, um site de quiz dedicado a testar seus conhecim
 
 ## Integrantes do Grupo
 
-- Nome do Integrante 1
-- Nome do Integrante 2
-- Nome do Integrante 3
-- Nome do Integrante 4
+- Vinicius Santos Martins - 202208700578
+- Fernando Rincon de Paula - 202303616554
+- Gabriel Scordamaglia Leite - 202303882122
 
 ## Funcionalidades
 
