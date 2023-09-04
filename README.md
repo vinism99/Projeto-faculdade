@@ -7,6 +7,8 @@ Este é o projeto CharacterQuiz, um site de quiz dedicado a testar seus conhecim
 - Vinicius Santos Martins - 202208700578
 - Fernando Rincon de Paula - 202303616554
 - Gabriel Scordamaglia Leite - 202303882122
+- Guilherme Bunnemeyer Monteiro - 202303368161
+- Adriano de Sousa Ramos - 202302381219
 
 ## Funcionalidades
 
