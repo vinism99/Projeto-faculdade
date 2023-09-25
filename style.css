@@ -1,38 +1,70 @@
+html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
 body{
     background-color: #344a72 ;
     font-family: 'Roboto', sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
 }
 
+body::-webkit-scrollbar{
+    display: none;
+  }
+
+div::-webkit-scrollbar{
+    display: none;
+  }
+
 .signup-box{
-    width: 360px;
-    height: 620px;
+    width: 20%;
+    height: 65%;
     margin: auto;
+    margin-top: 1%;
     background-color: white;
-    border-radius: 3px;
+    border-radius: 1%;
+    align-content: center;
+    overflow: scroll;
 }
+
+.login-box{
+    width: 20%;
+    height: 30%;
+    background-color: white;
+    margin: auto;
+    margin-top: 1%;
+    border-radius: 1%;
+    align-content: center;
+    overflow: scroll;
+}
+
 h1{
      text-align: center;
-     padding-top: 15px;
+     padding-top: 3%;
 }
 h4{
     text-align: center;
 }
 
 form{
-    width: 300px;
-    margin-left: 20px;
+    width: 85%;
+    margin-left: 5%;
 
 }
 
 form label{
     display:flex;
-    margin-top: 20px;
-    font-size: 18px;
+    margin-top: 5%;
+    font-size: 125%;
 }
 
 form input{
     width: 100%;
-    padding: 7px;
+    padding: 2%;
     border: none;
     border: 1px solid gray;
     border-radius: 6px;
@@ -41,27 +73,28 @@ form input{
 }
 
 input[type="button"]{
-    width: 320px;
-    height: 35px;
-    margin-top: 20px;
+    width: 105%;
+    height: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
     border: none;
     background-color: #49c1a2;
     color: white;
-    font-size: 25px;
+    font-size: 125%;
 
 }
 
 p{
     text-align: center;
-    padding-top: 20px;
-    font-size: 15px;
+    padding-top: 1%;
+    font-size: 100%;
 }
 
 .para-2{
     text-align: center;
     color: white;
-    font-size: 15px;
-    margin-top: -10px;
+    font-size: 100%;
+    margin-top: 0.1%;
 }
 
 .para-2 a{
