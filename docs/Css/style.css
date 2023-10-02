@@ -42,9 +42,20 @@ div::-webkit-scrollbar{
     overflow: scroll;
 }
 
+.quiz-box{
+    width: 80%;
+    height: 90%;
+    background-color: white;
+    margin: auto;
+    margin-top: 1%;
+    border-radius: 1%;
+    align-content: center;
+    overflow: scroll;
+}
+
 h1{
      text-align: center;
-     padding-top: 3%;
+     padding-top: 1%;
 }
 h4{
     text-align: center;
@@ -58,7 +69,7 @@ form{
 
 form label{
     display:flex;
-    margin-top: 5%;
+    margin-top: 2%;
     font-size: 125%;
 }
 
@@ -98,5 +109,16 @@ p{
 }
 
 .para-2 a{
+    color: #49c1a2;
+}
+
+.para-3{
+    text-align: right;
+    color: white;
+    font-size: 100%;
+    margin-right: 2%;
+}
+
+.para-3 a{
     color: #49c1a2;
 }
